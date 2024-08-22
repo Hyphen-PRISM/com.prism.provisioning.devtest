@@ -1,2 +1,2 @@
-# com.prism.provisioning.devtest
-Provisioning Test
+# Development Mode Provisioning Profile
+Provisioning testing
